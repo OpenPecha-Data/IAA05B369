@@ -1,0 +1,99 @@
+id: 716a165d4944464caceb292729754699
+annotation_type: Language
+revision: '00001'
+annotations:
+  ef95abe508a749c2b085beab3bd8992e:
+    span:
+      start: 35
+      end: 160
+    language: en
+  6fce3e74a1974bfb9822f693097e19af:
+    span:
+      start: 229
+      end: 297
+    language: en
+  793c124216154f81a4aed27bf01fcf5b:
+    span:
+      start: 325
+      end: 464
+    language: en
+  3cf9b28dbc0649019b13b07485aaef0e:
+    span:
+      start: 493
+      end: 1065
+    language: en
+  20b7bac29e83476993f4cde57b76d363:
+    span:
+      start: 1093
+      end: 1357
+    language: en
+  c1816988c043498ebcafd8566207bf56:
+    span:
+      start: 2033
+      end: 2068
+    language: en
+  b619eb5af2224ab4a5850a1dd74561e2:
+    span:
+      start: 121111
+      end: 121143
+    language: en
+  a815153080a74c7c9afd5458565d537d:
+    span:
+      start: 144937
+      end: 145005
+    language: en
+  62c8160639bf453e973d84f4896010ec:
+    span:
+      start: 182457
+      end: 182599
+    language: en
+  ee02a8ce75f1487597ce2ee70ba46945:
+    span:
+      start: 198817
+      end: 198849
+    language: en
+  1f5183738ae044ffaea26efcc2c40e88:
+    span:
+      start: 239249
+      end: 239423
+    language: en
+  0c7a1a4043be4adaa3f184f669888d37:
+    span:
+      start: 258361
+      end: 258421
+    language: en
+  c97ed68935a244c68b8a4d492d3b96a4:
+    span:
+      start: 274894
+      end: 274926
+    language: en
+  24fde3df597745fb9d1c9987ced48518:
+    span:
+      start: 297234
+      end: 297256
+    language: en
+  ab2aec55f2e94743b928bbebfe2dd1ff:
+    span:
+      start: 303918
+      end: 303948
+    language: en
+  9b25b30ae8f542a1b84181c4a63498d9:
+    span:
+      start: 389488
+      end: 389641
+    language: en
+  b686e210f9e840bbb552d708d4a68cd3:
+    span:
+      start: 478444
+      end: 478470
+    language: en
+  75a6f5a2b987404ba6967782fac83488:
+    span:
+      start: 483891
+      end: 483989
+    language: en
+  631be7d6e2294d5c8ece5bc780137640:
+    span:
+      start: 527864
+      end: 527900
+    language: en
